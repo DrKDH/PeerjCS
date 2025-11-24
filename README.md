@@ -1,7 +1,7 @@
 # ECIA: Emotional-Cognition Integration Architecture
 
 This repository contains the official implementation of the paper:
-**"Computational Emotions as Functional Adaptations: Synergistic Integration for Robustness in Non-stationary Environments"**
+**"Biologically-Inspired Emotional Processing for Adaptive Decision-Making in Non-Stationary Environments"**
 
 ## Overview
 
